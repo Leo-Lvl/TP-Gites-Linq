@@ -1,0 +1,66 @@
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\tpGites.exe.config
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\tpGites.exe
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\tpGites.pdb
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\EntityFramework.dll
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\MySql.Data.dll
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\EntityFramework.xml
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\MySql.Data.xml
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.csprojAssemblyReference.cache
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.Form1.resources
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.Properties.Resources.resources
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.csproj.GenerateResource.cache
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.csproj.CoreCompileInputs.cache
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.csproj.CopyComplete
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.exe
+C:\Users\eroussin\source\repos\cfGites\tpGites\obj\Debug\tpGites.pdb
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\cfGites.dll
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\cfGites.pdb
+C:\Users\eroussin\source\repos\cfGites\tpGites\bin\Debug\cfGites.dll.config
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\tpGites.exe.config
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\tpGites.exe
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\tpGites.pdb
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\cfGites.dll
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\EntityFramework.dll
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\MySql.Data.dll
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\cfGites.pdb
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\cfGites.dll.config
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\EntityFramework.xml
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\MySql.Data.xml
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.csprojAssemblyReference.cache
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.FGites.resources
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.Properties.Resources.resources
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.csproj.GenerateResource.cache
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.csproj.CoreCompileInputs.cache
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.csproj.CopyComplete
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.exe
+C:\Users\llaval\slam 3\TP cfGites\GitesLinq-main\tpGites\obj\Debug\tpGites.pdb
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\tpGites.exe.config
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\tpGites.exe
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\tpGites.pdb
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\cfGites.dll
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\EntityFramework.dll
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\MySql.Data.dll
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\cfGites.pdb
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\cfGites.dll.config
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\EntityFramework.xml
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\MySql.Data.xml
+C:\Users\Leo\Desktop\GitesLinq\tpGites\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.csprojAssemblyReference.cache
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.FGites.resources
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.Properties.Resources.resources
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.csproj.CopyComplete
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.exe
+C:\Users\Leo\Desktop\GitesLinq\tpGites\obj\Debug\tpGites.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cfGites", "cfGites\cfGites.csproj", "{60104EBC-DD1C-4F70-8CB9-1CEA066D1033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpGites", "tpGites\tpGites.csproj", "{32345850-2BC8-4DF4-847B-6893DA339B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60104EBC-DD1C-4F70-8CB9-1CEA066D1033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60104EBC-DD1C-4F70-8CB9-1CEA066D1033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60104EBC-DD1C-4F70-8CB9-1CEA066D1033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60104EBC-DD1C-4F70-8CB9-1CEA066D1033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32345850-2BC8-4DF4-847B-6893DA339B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32345850-2BC8-4DF4-847B-6893DA339B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32345850-2BC8-4DF4-847B-6893DA339B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32345850-2BC8-4DF4-847B-6893DA339B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA44104-D31E-4586-B103-F294BFA15E34}
+	EndGlobalSection
+EndGlobal
